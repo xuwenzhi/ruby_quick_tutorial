@@ -18,11 +18,19 @@ Ruby语法快速上手教程。
  
 - if/else/switch
 
-- 数组
+- Array
 
-- 函数
+- Range
 
-- 类
+- String
+
+- Function
+
+- Symbol
+
+- Hash
+
+- Class
 
 ...
 
