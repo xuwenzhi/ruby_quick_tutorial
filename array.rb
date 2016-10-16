@@ -109,7 +109,6 @@ puts "a = #{a}"
 
 
 
-
 =begin
 更多 : http://ruby-doc.org/core-2.3.0/Array.html
 =end
