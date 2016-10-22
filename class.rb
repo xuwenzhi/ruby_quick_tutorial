@@ -2,7 +2,7 @@
 
 =begin
 ruby的OOP风格和其他编程语言类似，也有构造方法、属性等东东
-initialize()为ruby特定的构造方法
+initialize()为ruby特定的构造方法。
 如下，我们将建立一个Hello类，做相关操作。
 =end
 class Hello
@@ -71,4 +71,12 @@ Range - 3..7 or 3...7
 Garbage Collection(GC)
 ruby采用mark-and-sweep策略来进行垃圾回收，mark操作会检查对象是否在当前执行区被使用，如果被使用则会做mark操作。
 当一个对象已经很久没有被使用，这个对象就不会被mark，这时会做sweep操作，将对象回收。
+=end
+
+
+=begin
+built-in classes and modules in ruby
+
+Array, Bignum, Class, Dir, Exception, File, Fixnum, Float, Integer, IO, Module, Numeric, Object, Range, String, Thread, Time.
+Some built-in modules are Comparable, Enumerable, GC, Kernel, Math.
 =end
