@@ -34,6 +34,8 @@ Ruby语法快速上手教程。
 
 - Class - method_missing
 
+- Class - class_open
+
 - Serialization
 
 - File R/W
