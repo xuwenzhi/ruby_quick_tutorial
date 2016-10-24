@@ -32,15 +32,22 @@ Ruby语法快速上手教程。
 
 - Class
 
--Class - method
+- Class - method
 
 - Class - method_missing
+
+- Class - method_accessor
+
+- Class - method_overloading
 
 - Class - class_open
 
 - Serialization
 
 - File R/W
+
+- Log
+
 ...
 
 
