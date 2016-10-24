@@ -2,7 +2,7 @@
 
 =begin
 ruby的OOP风格和其他编程语言类似，也有构造方法、属性等东东
-initialize()为ruby特定的构造方法。
+initialize()为ruby特定的构造方法,并且总是私有（private）的。
 如下，我们将建立一个Hello类，做相关操作。
 =end
 class Hello
@@ -55,6 +55,9 @@ if __FILE__ == $0
   puts "hello1 object-id : #{hello1.object_id}"
 
 end
+
+
+
 
 
 =begin
