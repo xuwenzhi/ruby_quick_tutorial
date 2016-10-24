@@ -1,4 +1,0 @@
-# Logfile created on 2016-10-24 23:36:36 +0800 by logger.rb/41954
-D, [2016-10-24T23:36:36.771922 #31744] DEBUG -- : a: 10, b: 2
-D, [2016-10-24T23:36:36.772726 #31744] DEBUG -- : a: 10, b: 0
-E, [2016-10-24T23:36:36.773112 #31744] ERROR -- : Error in division!: divided by 0
