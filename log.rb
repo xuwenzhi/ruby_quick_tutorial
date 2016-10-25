@@ -41,9 +41,9 @@ def divide(a, b)
   end
   return result
 end
-divide(10, 2) # 10 / 2 不会抛出异常
+divide(10, 2) # 10 / 2 不会抛出异常，只记录debug
 
-divide(10, 0) # 10 / 0 会抛出异常
+divide(10, 0) # 10 / 0 会抛出异常，记录debug和error
 
 =begin
 输出:

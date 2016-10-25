@@ -48,6 +48,7 @@ Ruby语法快速上手教程。
 
 - Log
 
+- Exception
 ...
 
 
