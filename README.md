@@ -52,7 +52,9 @@ Ruby语法快速上手教程。
 
 - Duck Typing
 
+- Syntactic Sugar 
 
+- Mutable and Immutable Object
 ...
 
 
