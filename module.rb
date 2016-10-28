@@ -29,6 +29,7 @@ puts Moral.sin(Moral::VERY_BAD)
 2.保证代码的可重用性，如果多个类使用相同的方法，则可以将此方法定义在模块中
 =end
 
+
 module Walk
   def initialize(name)
     @name =name
