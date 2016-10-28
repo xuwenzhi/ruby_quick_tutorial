@@ -24,6 +24,8 @@ Ruby语法快速上手教程。
 
 - String
 
+- Constants
+
 - Function
 
 - Symbol
