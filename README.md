@@ -54,7 +54,10 @@ Ruby语法快速上手教程。
 
 - Syntactic Sugar 
 
+
 - Mutable and Immutable Object
+
+- Modules
 ...
 
 
