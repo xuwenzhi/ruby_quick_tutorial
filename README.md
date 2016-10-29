@@ -44,6 +44,8 @@ Ruby语法快速上手教程。
 
 - Class - class_open
 
+- Class - self
+
 - Serialization
 
 - File R/W
@@ -60,6 +62,7 @@ Ruby语法快速上手教程。
 - Mutable and Immutable Object
 
 - Modules
+
 ...
 
 
