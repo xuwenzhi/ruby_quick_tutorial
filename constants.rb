@@ -10,7 +10,7 @@ A_CONST = 10 #定义常量
 #A_CONST = 20 # warning: already initialized constant A_CONST
 
 =begin
-虽然常量一经定义就无法再更改，BB但是还是可以通过更改常量的引用来更改常量的值，具体例子见下面
+虽然常量一经定义就无法再更改，但是还是可以通过更改常量的引用来更改常量的值，具体例子见下面
 =end
 AA_CONST = "Doshi"
 BB_CONST = AA_CONST # BB_CONST为AA_CONST的引用
@@ -20,7 +20,7 @@ puts BB_CONST # also displays Joshi
 
 
 =begin
-ruby中使用常量的简单场景。
+ruby中使用常量的简单场景（一定要注意的是常量的作用域）
 =end
 OUTER_CONST = 99
 

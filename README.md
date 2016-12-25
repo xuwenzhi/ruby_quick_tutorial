@@ -34,6 +34,8 @@ Ruby语法快速上手教程。
 
 - Class
 
+- Class - variables
+
 - Class - method
 
 - Class - method_missing
@@ -45,6 +47,8 @@ Ruby语法快速上手教程。
 - Class - class_open
 
 - Class - self
+
+- Class - trueth
 
 - Serialization
 
