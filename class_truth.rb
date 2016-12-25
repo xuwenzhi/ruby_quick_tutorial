@@ -37,7 +37,21 @@ BaseObject(ruby类的根节点) -
 
 =end
 
+
+=begin
+祖先链
+=end
+puts "类的祖先链:"
+puts "hello".class.ancestors.to_s
+
+=begin
+从祖先链中会发现有一个kernel，这是ruby内置的module，并且已经加载到了Object中
+那么是怎么注入的，可以看module_load.rb
+=end
+
+
 =begin
 ruby的类太过灵活，导致可以在运行时改变类的结构，一定要注意，不要乱改。
 =end
-puts Object.superclass
+
+
