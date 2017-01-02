@@ -82,11 +82,16 @@ end
 =end
 
 
-
+=begin
+其实string和symbol是可以互换的，看下面
+=end
+puts "===================string和symbol互换?==================="
+puts "yes".to_sym()
+puts :yes.to_s()
 
 
 =begin
-何时使用string？何时使用symbol
+何时使用string？何时使用symbol?
 If the contents (the sequence of characters) of the object are important, use a string
 If the identity of the object is important, use a symbol
 =end
